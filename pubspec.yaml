@@ -2,7 +2,7 @@ name: flutter_map_fast_markers
 description: Faster markers for flutter_map
 version: 0.0.3
 author:
-homepage: "https://github.com/KanarekApp/flutter_map_fast_markers"
+homepage: "https://github.com/xxJohnxx/flutter_map_fast_markers"
 
 environment:
   sdk: '>=2.12.0 <3.0.0'
@@ -13,7 +13,7 @@ dependencies:
     sdk: flutter
   flutter_map:
     git:
-      url: "https://github.com/KanarekApp/flutter_map"
+      url: "https://github.com/xxJohnxx/flutter_map"
       ref: master
   collection: ^1.15.0-nullsafety.4
 
